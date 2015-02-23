@@ -2,4 +2,5 @@
 *.ocf
 *.osf
 *.exe
+odc*
 Sdl2
